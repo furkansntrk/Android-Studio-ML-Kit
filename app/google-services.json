@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850941252069",
+    "project_id": "mlandroidproject-6d179",
+    "storage_bucket": "mlandroidproject-6d179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850941252069:android:99d0f5189ffa0bdcfc9f0c",
+        "android_client_info": {
+          "package_name": "com.nexis.mlimagelabeljava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850941252069-2engphhjuprkdjqaeolkd8efkuvrvks5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_LwQWP5PDJ4vRkRDL-_oovYH3RcHHYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850941252069-2engphhjuprkdjqaeolkd8efkuvrvks5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
